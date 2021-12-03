@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPets</string>
+    <string name="favorito">Favorito</string>
+    <string name="help">help</string>
+    <string name="home">Home</string>
+    <string name="compartilhar">compartilhar</string>
+    <string name="configura_oes">configuraçoes</string>
+</resources>
